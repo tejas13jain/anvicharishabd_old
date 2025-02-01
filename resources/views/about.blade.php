@@ -78,8 +78,6 @@
         line-height: 22px;
         margin: 0 0 5px;
     }
-
-
     .feature .feature-box .feature-content {
         float: left;
         padding-left: 28px;
