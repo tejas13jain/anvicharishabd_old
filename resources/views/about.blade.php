@@ -12,7 +12,11 @@
     .aboutus-section {
         padding: 90px 0;
     }
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> a322e85 (Fix line endings)
     .aboutus-title {
         font-size: 30px;
         letter-spacing: 0;
@@ -70,7 +74,6 @@
         top: 100%;
         width: 1px;
     }
-
     .feature .feature-box .feature-content h4 {
         color: #0f0f0f;
         font-size: 18px;
