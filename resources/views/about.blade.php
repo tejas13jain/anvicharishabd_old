@@ -23,7 +23,6 @@
         text-transform: uppercase;
         color: #000;
     }
-    
     .aboutus-title::after {
         background: #fdb801 none repeat scroll 0 0;
         bottom: 0;
