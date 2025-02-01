@@ -12,6 +12,7 @@
     .aboutus-section {
         padding: 90px 0;
     }
+    
     .aboutus-title {
         font-size: 30px;
         letter-spacing: 0;
